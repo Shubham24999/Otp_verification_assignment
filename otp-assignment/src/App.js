@@ -26,7 +26,7 @@ function App() {
         <div
           style={{
             backgroundColor: "#C5CAE9",
-            height: "400px",
+            height: "450px",
             boxShadow: "rgba(0, 0, 0, 0.35) 0px 5px 15px",
           }}
         >
@@ -59,7 +59,6 @@ function App() {
               Verify Phone Number
             </button>
           </div>
-          <br />
           <button onClick={toggleModal} className="close-pop">
             Close
           </button>
